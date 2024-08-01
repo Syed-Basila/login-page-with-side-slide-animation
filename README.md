@@ -4,9 +4,7 @@ This is a simple sign in and sign up form with a stylish transition between the 
 
 ## Demo
 
-![Demo]
-
-(https://github.com/user-attachments/assets/a96ad9bb-6388-4904-a563-fed5b7566c0b)
+![https://github.com/user-attachments/assets/a96ad9bb-6388-4904-a563-fed5b7566c0b]
 
 
 ## Features
