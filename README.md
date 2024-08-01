@@ -2,11 +2,6 @@
 
 This is a simple sign in and sign up form with a stylish transition between the two. It uses HTML, CSS, and JavaScript to create a smooth user experience. The design is responsive and works well on both desktop and mobile devices.
 
-## Demo
-
-https://github.com/user-attachments/assets/a96ad9bb-6388-4904-a563-fed5b7566c0b
-
-
 ## Features
 
 - **Responsive Design**: Works on all screen sizes.
