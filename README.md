@@ -70,3 +70,6 @@ The HTML file consists of two main sections: the sign-up container and the sign-
         </div>
     </div>
 </div>
+```
+# output
+https://syed-basila.github.io/login-page-with-side-slide-animation/
